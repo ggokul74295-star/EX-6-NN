@@ -31,7 +31,7 @@ Step 10:Print the accuracy of the model.
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().
 
 ## Program
-  ```
+  ```python
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
