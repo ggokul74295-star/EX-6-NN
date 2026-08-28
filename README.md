@@ -120,8 +120,7 @@ Confusion Matrix:
  [ 0  2  8]]
 
  <img width="911" height="562" alt="image" src="https://github.com/user-attachments/assets/e415eb3c-59eb-452c-accf-0cbc76caa039" />
- 
-<img width="1157" height="606" alt="image" src="https://github.com/user-attachments/assets/218cba0d-4aba-4aa4-a719-aa788c724ce0" />
+ <img width="1157" height="606" alt="image" src="https://github.com/user-attachments/assets/218cba0d-4aba-4aa4-a719-aa788c724ce0" />
 
 ## Results
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
